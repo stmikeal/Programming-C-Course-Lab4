@@ -1,0 +1,5 @@
+build/
+.git/
+main
+.vscode
+sample/output/
